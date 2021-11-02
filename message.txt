@@ -1,2 +1,2 @@
 This is my message from master.
-This is my message from master-2.
+This is my message from conflic-branch.
